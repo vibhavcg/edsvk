@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/0/folders/16LphsdP3EaGrFMGtH7iP5xfs4StTvNnX
+  /:
+    url: https://content.da.live/vibhavcg/edsvk/
+    type: markup
